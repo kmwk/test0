@@ -6,6 +6,7 @@ int return_result(int b, int b1)
 	int c = b * b1;
 	c++;
 	c++;
+	c = c + 100;
 	return c;
 }
 
