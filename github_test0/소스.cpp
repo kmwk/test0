@@ -5,6 +5,7 @@ int return_result(int b, int b1)
 {
 	int c = b * b1;
 	c++;
+	c++;
 	return c;
 }
 
